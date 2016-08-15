@@ -1,0 +1,14 @@
+
+project.name: "libcoap"
+
+project.repositories:
+    - libcoap
+
+# Use github's distribution mechanism for core ASF libraries.
+# This provides mirroring automatically for us.
+#
+repository.libcoap
+    type: github
+    vers: 0-latest
+    user: adam31
+    repo: libcoap
