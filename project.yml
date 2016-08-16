@@ -9,6 +9,6 @@ project.repositories:
 #
 repository.libcoap
     type: github
-    vers: 0-latest
+    vers: "0.0.1"
     user: adam31
     repo: libcoap

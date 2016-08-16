@@ -1,0 +1,7 @@
+pkg.name: libcoap
+pkg.type: lib
+pkg.description: "CoAP library"
+pkg.author: "github/obgm"
+pkg.homepage: "https://github.com/obgm/libcoap"
+pkg.keywords:
+
